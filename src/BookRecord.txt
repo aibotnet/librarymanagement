@@ -1,0 +1,21 @@
+zzzz	xxxx	cccc	vvvv	0	
+ZXsz	asa	asa	sa	0	
+ZX	zX	zzxz	xzx	0	
+zx	xz	zxzxzxx	zxzx	0	
+xzxz	zxzx	zxzx	zxz	0	
+xzx	xzzx	zxzxz	zxzxzx	0	
+xcZ	zx	xZ	XzX	0	
+vvvv	dddd	ffff	ffdd	1	
+ssd	ksdks	java	jdhsajds	0	
+networking	frozen	networking	dkdfj	0	
+msd	x	zXX	x	0	
+jskds	ksds	java	jwlkdj	0	
+java programing	preiss	java	oracle	0	
+java	dddd	dddd	dddd	0	
+java	asdsds	java	dasa	0	
+java	vikas	java	sms	0	
+dksdsfdssf	assasa	sasasas	sasasas	0	
+dataStructure	asdf	java	oracle	1	
+dataStructure	preiss	java	tmh	0	
+asdfg	wdwaaasd	dsad	dasd	0	
+aaaa	ssss	dddd	ffff	0	
